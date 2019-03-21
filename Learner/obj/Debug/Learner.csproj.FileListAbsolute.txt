@@ -1,0 +1,56 @@
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Learner.exe.config
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Learner.exe
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Learner.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.csprojAssemblyReference.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\App.g.cs
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner_MarkupCompile.lref
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.g.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.csproj.CopyComplete
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.exe
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Learner.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\App.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Views\Authentication\LearnerAuthenticationView.g.cs
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Views\Authentication\LearnerAuthenticationView.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\bin\Debug\Resources.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Learner\obj\Debug\Languages.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Learner.exe.config
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Learner.exe
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Learner.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Resources.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.csprojAssemblyReference.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Languages.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Views\Authentication\LearnerAuthenticationView.g.cs
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\App.g.cs
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner_MarkupCompile.lref
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\App.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Views\Authentication\LearnerAuthenticationView.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.g.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.csproj.CopyComplete
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.exe
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Learner\obj\Debug\Learner.pdb

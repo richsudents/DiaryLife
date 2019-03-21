@@ -1,0 +1,5 @@
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\BAL\bin\Debug\BAL.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\BAL\bin\Debug\BAL.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\BAL\obj\Debug\BAL.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\BAL\obj\Debug\BAL.pdb

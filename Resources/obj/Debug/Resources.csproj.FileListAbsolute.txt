@@ -1,0 +1,29 @@
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Languages\EN.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Languages\RU.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Languages\UA.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.g.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\bin\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\bin\Debug\Resources.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Resources.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Styles\LanguageCombobox.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\Resources\obj\Debug\Styles\DefaultColors.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\bin\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\bin\Debug\Resources.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Languages\EN.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Languages\RU.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Languages\UA.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Styles\DefaultColors.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Styles\LanguageCombobox.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.g.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\Resources\obj\Debug\Resources.pdb

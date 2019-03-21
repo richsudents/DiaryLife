@@ -1,0 +1,23 @@
+﻿<Application x:Class="Learner.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Learner">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="bootstrapper" />
+                </ResourceDictionary>
+                <ResourceDictionary Source="pack://application:,,,/Resources;component/Languages/RU.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="pack://application:,,,/Resources;component/Languages/EN.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="pack://application:,,,/Resources;component/Styles/DefaultColors.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="/Resources;component/Styles/LanguageCombobox.xaml" />
+                <ResourceDictionary>
+                    <ResourceDictionary.MergedDictionaries>
+                        <ResourceDictionary Source="Languages.xaml"/>
+                    </ResourceDictionary.MergedDictionaries>
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

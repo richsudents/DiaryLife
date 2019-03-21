@@ -1,0 +1,45 @@
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\DiaryLife.exe.config
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\DiaryLife.exe
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\DiaryLife.pdb
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csprojAssemblyReference.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\MainWindow.g.cs
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\App.g.cs
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife_MarkupCompile.lref
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\MainWindow.baml
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.g.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.CopyComplete
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.exe
+D:\Users\Andrii.Borysenko\source\repos\DiaryLife\DiaryLife\obj\Debug\DiaryLife.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\DiaryLife.exe.config
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\DiaryLife.exe
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\DiaryLife.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\System.Windows.Interactivity.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\MainWindow.g.cs
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\App.g.cs
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife_MarkupCompile.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife_MarkupCompile.lref
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\MainWindow.baml
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.g.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.Properties.Resources.resources
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.GenerateResource.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.csproj.CopyComplete
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.exe
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DiaryLife\obj\Debug\DiaryLife.pdb

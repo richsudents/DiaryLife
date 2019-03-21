@@ -1,0 +1,5 @@
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DAL\bin\Debug\DAL.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DAL\bin\Debug\DAL.pdb
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DAL\obj\Debug\DAL.dll
+D:\Users\Andrii.Borysenko\Desktop\New folder\DiaryLife\DAL\obj\Debug\DAL.pdb
